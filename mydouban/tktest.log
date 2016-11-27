@@ -1,0 +1,2 @@
+2016-11-26 18:18:10,357 - dbacc.py:45 - tktest - <__main__.DbAcc instance at 0x02F733A0>
+2016-11-26 18:18:10,358 - dbacc.py:40 - tktest - ProgrammingError(1146, "Table 'spider.book1' doesn't exist")
